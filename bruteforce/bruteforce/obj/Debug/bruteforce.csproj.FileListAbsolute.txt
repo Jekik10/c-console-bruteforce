@@ -1,0 +1,7 @@
+C:\Users\Srighi\Desktop\bruteforce\bruteforce\bin\Debug\bruteforce.exe.config
+C:\Users\Srighi\Desktop\bruteforce\bruteforce\bin\Debug\bruteforce.exe
+C:\Users\Srighi\Desktop\bruteforce\bruteforce\bin\Debug\bruteforce.pdb
+C:\Users\Srighi\Desktop\bruteforce\bruteforce\obj\Debug\bruteforce.csprojAssemblyReference.cache
+C:\Users\Srighi\Desktop\bruteforce\bruteforce\obj\Debug\bruteforce.csproj.CoreCompileInputs.cache
+C:\Users\Srighi\Desktop\bruteforce\bruteforce\obj\Debug\bruteforce.exe
+C:\Users\Srighi\Desktop\bruteforce\bruteforce\obj\Debug\bruteforce.pdb
